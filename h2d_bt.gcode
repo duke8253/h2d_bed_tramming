@@ -11,7 +11,7 @@ G1 Z10 F1800
 ; Adjust the screw till you can feel a slight resistance when moving the paper.
 G1 Z10 F120
 G1 F2400
-G1 X68 Y36 Z10; 1st point
+G1 X73 Y41 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -32,7 +32,7 @@ M400 S5
 ; and slide on the mount with the indicator installed.
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 M400 S5
 M400 S5
 M400 S5
@@ -54,7 +54,7 @@ M400 S5
 ; finished with all points reading 0mm without adjusting the corresponding screw.
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -65,7 +65,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -76,7 +76,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -87,7 +87,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -99,7 +99,7 @@ M400 S5
 ; ========== round 2 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -110,7 +110,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -121,7 +121,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -132,7 +132,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -144,7 +144,7 @@ M400 S5
 ; ========== round 3 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -155,7 +155,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -166,7 +166,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -177,7 +177,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -189,7 +189,7 @@ M400 S5
 ; ========== round 4 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -200,7 +200,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -211,7 +211,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -222,7 +222,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -234,7 +234,7 @@ M400 S5
 ; ========== round 5 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -245,7 +245,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -256,7 +256,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -267,7 +267,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -279,7 +279,7 @@ M400 S5
 ; ========== round 6 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -290,7 +290,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -301,7 +301,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -312,7 +312,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -324,7 +324,7 @@ M400 S5
 ; ========== round 7 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -335,7 +335,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -346,7 +346,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -357,7 +357,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -369,7 +369,7 @@ M400 S5
 ; ========== round 8 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -380,7 +380,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -391,7 +391,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -402,7 +402,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -414,7 +414,7 @@ M400 S5
 ; ========== round 9 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -425,7 +425,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -436,7 +436,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -447,7 +447,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -459,7 +459,7 @@ M400 S5
 ; ========== round 10 ==========
 G1 Z10 F120
 G1 F2400
-G1 X80 Y62 Z10; 1st point
+G1 X85 Y67 Z10; 1st point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -470,7 +470,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y62 Z10; 2nd point
+G1 X286.5 Y67 Z10; 2nd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -481,7 +481,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X291.5 Y310 Z10; 3rd point
+G1 X286.5 Y305 Z10; 3rd point
 G1 Z0.1
 M400 S5
 M400 S5
@@ -492,7 +492,7 @@ M400 S5
 
 G1 Z10 F120
 G1 F2400
-G1 X80 Y310 Z10; 4th point
+G1 X85 Y305 Z10; 4th point
 G1 Z0.1
 M400 S5
 M400 S5
